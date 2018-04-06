@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">gpsLocationManager</string>
+    <string name="txtUbicacion">Ingresar Ubicación</string>
+    <string name="txtLatitud">Ingresar Latitud</string>
+    <string name="txtLongitud">Ingresar Longitud</string>
+    <string name="tvUbicacionDispositivo">Ubicación del Dispositivo</string>
+    <string name="tvDistanciaTtl">Distancia entre los dos Puntos</string>
+
+</resources>
